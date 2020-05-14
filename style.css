@@ -2,26 +2,30 @@
     font-family: 'Balsamiq Sans', cursive;
     background-color: cadetblue;
     display: inline;
+    font-size: 3rem;
 }
 
 .sub {
     font-family: 'Kaushan Script', cursive;
     background-color: red;
     display: inline-block;
+    font-size: 3rem;
 }
 
 #tik {
     border-radius: 25px;
-    width: 100px;
-    height: 50px;
+    width: 10%;
+    height: 10%;
     background-color: white;
     cursor: pointer;
+    font-size: 1.9rem;
 }
 
 #rock {
     border-radius: 25px;
-    width: 100px;
-    height: 50px;
+    width: 10%;
+    height: 10%;
     background-color: white;
     cursor: pointer;
+    font-size: 1.9rem;
 }
