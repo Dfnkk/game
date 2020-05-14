@@ -1,0 +1,19 @@
+.title {
+    font-family: 'Balsamiq Sans', cursive;
+    background-color: cadetblue;
+    display: inline;
+}
+
+.sub {
+    font-family: 'Kaushan Script', cursive;
+    background-color: red;
+    display: inline-block;
+}
+
+.tik {
+    border-radius: 25px;
+}
+
+.rock {
+    border-radius: 25px;
+}
