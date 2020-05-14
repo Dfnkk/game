@@ -10,10 +10,16 @@
     display: inline-block;
 }
 
-.tik {
+#tik {
     border-radius: 25px;
+    width: 100px;
+    height: 50px;
+    background-color: white;
 }
 
-.rock {
+#rock {
     border-radius: 25px;
+    width: 100px;
+    height: 50px;
+    background-color: white;
 }
