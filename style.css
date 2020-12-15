@@ -12,7 +12,7 @@
     font-size: 3rem;
 }
 
-#tik {
+.tik {
     border-radius: 25px;
     width: 10%;
     height: 10%;
@@ -21,7 +21,7 @@
     font-size: 1.9rem;
 }
 
-#rock {
+.rock {
     border-radius: 25px;
     width: 10%;
     height: 10%;
